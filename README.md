@@ -40,7 +40,8 @@ Project information:
 
 App Store: https://apps.apple.com/us/app/elli-v2/id1479069700?platform=iphone
 
-![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/262346f5-0108-4751-9841-0b584730aed2)
+![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/a4f00228-ed14-43a8-9df1-9979d3f73eb8)
+
 
  
 ## MM My Profile (e-wallet)
@@ -56,7 +57,6 @@ App Store: https://apps.apple.com/ge/app/mm-myprofile/id1561990665
 ![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/60896598-22cf-4e41-92ec-265302756f1f)
 
 
-![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/0c34e606-8ee5-4a1c-a181-80c385ede86b)
 
 
 
