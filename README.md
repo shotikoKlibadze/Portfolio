@@ -5,10 +5,10 @@ iOS Developer with 3 years of experience working in the field. Over the years Iâ
 # Projects
 
 ## Eazigo
-EaziGo is a social media application for travelers. Gives users the ability to book trips for a group and create an itinerary for friends and family members to follow, ability to create and share users' trips, and to invite different users for trips.
+EaziGo is a social media application for travelers. Gives users the ability to book trips for a group and create an itinerary for friends and family members to follow, the ability to create and share users' trips, and to invite different users for trips.
 
 Project information
-- Project involvement: I was involved from the beginning of the project.
+- Involvement: I was involved from the beginning of the project.
 - Responsibilities: Setting up architecture, adding features, and fixing bugs.
 - Team: 2 iOS developers, 1 Back-end developer, 1 Product Owner, 1 Designer, 1 QA.
   
