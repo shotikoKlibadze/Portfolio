@@ -7,12 +7,16 @@ iOS Developer with 3 years of experience working in the field. Over the years Iâ
 ## Eazigo
 EaziGo is a social media application for travelers. Gives users the ability to book trips for a group and create an itinerary for friends and family members to follow, ability to create and share users' trips, and to invite different users for trips.
 
-Project involvement: I was involved from the beginning of the project.
-Responsibilities: Setting up architecture, adding features, and fixing bugs.
-Team: 2 iOS developers, 1 Back-end developer, 1 Product Owner, 1 Designer, 1 QA.
+Project information
+- Project involvement: I was involved from the beginning of the project.
+- Responsibilities: Setting up architecture, adding features, and fixing bugs.
+- Team: 2 iOS developers, 1 Back-end developer, 1 Product Owner, 1 Designer, 1 QA.
+  
+App Store: https://apps.apple.com/ge/app/eazigo/id1668340210
+  
 ![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/1aae5cbe-944a-4d6b-ab04-086b9a979b28)
 
-App Store: https://apps.apple.com/ge/app/eazigo/id1668340210
+
 
 
 ## MM My Profile (e-wallet)
