@@ -14,6 +14,8 @@ Project information:
   
 App Store: https://apps.apple.com/ge/app/eazigo/id1668340210
 
+![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/1aae5cbe-944a-4d6b-ab04-086b9a979b28)
+
 ## Elli v3
 Application "Elli" is designed for independent owner-operators to manage and improve their delivery businesses. The application is used mainly by delivery operators. Guides users to delivery destinations, and gives the ability to scan packages for delivery and pickup information. Has 3D map views and map visualizations. Provides navigation voice guidance as well as alternative routes.
 
@@ -25,10 +27,7 @@ Project information:
 App Store: https://apps.apple.com/us/app/elli-v2/id1479069700?platform=iphone
 
 ![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/cbc974fc-465b-4093-8c99-c258f7e33306)
-
-  
-![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/1aae5cbe-944a-4d6b-ab04-086b9a979b28)
-
+ 
 ## MM My Profile (e-wallet)
 MyProfile application with 50k active users (operated mainly in Georgia) gives the ability to open and manage current, card, and other electronic money accounts. Instantly make utility and other payments, top up and withdraw money from gambling accounts, easily transfer money to a friend, etc. MyProfile app is a so-called multifunctional platform, a set of applications that are separate complete, and independent modules. Their function is to provide the user with various types of full-fledged services and get a lot of different services in one space.
 
