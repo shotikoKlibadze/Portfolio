@@ -10,7 +10,6 @@ Cali is an easy-to-use calendar application for managing daily appointments, rem
 Project information:
 - Tech: UiKit (10%) - SwiftUI (90%)
 - Responsibilities: Setting up architecture, adding features, writing tests.
-- Team: 1 iOS Developer
 
 Original Cali 1
 App Store: https://apps.apple.com/us/app/cali-the-calendar-app/id970379188?platform=iphone
