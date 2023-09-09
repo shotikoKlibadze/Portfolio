@@ -13,6 +13,19 @@ Project information:
 - Team: 2 iOS developers, 1 Back-end developer, 1 Product Owner, 1 Designer, 1 QA.
   
 App Store: https://apps.apple.com/ge/app/eazigo/id1668340210
+
+## Elli v3
+Application "Elli" is designed for independent owner-operators to manage and improve their delivery businesses. The application is used mainly by delivery operators. Guides users to delivery destinations, and gives the ability to scan packages for delivery and pickup information. Has 3D map views and map visualizations. Provides navigation voice guidance as well as alternative routes.
+
+Project information:
+- Involvement: I joined the project later on.
+- Responsibilities: Adding features, and fixing bugs.
+- Team: 4 iOS developers, 4 Android developers, 3 Back-end developers, 1 Product Owner, 1 Designer, 1 QA.
+
+App Store: https://apps.apple.com/us/app/elli-v2/id1479069700?platform=iphone
+
+![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/cbc974fc-465b-4093-8c99-c258f7e33306)
+
   
 ![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/1aae5cbe-944a-4d6b-ab04-086b9a979b28)
 
