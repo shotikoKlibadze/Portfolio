@@ -5,7 +5,7 @@ iOS Developer with 3 years of experience working in the field. Over the years Iâ
 # My Projects
 
 ## Cali 2 --- Ongoing project
-Cali is an easy-to-use calendar application for managing daily appointments and to-dos. Shows events and reminders that already exist in the user's iPhone's calendar separated into weeks, days, months, and years. Has the ability to create events, reminders, and to-dos. The application was originally written in Objective-C. I was selected and hired through Upwork to rebuild the application with a new design. I am working under the guidance of a senior iOS developer with 15 years of experience who originally coded and ownes the app.
+Cali is an easy-to-use calendar application for managing daily appointments, reminders, and to-dos. Shows events and reminders that already exist in the user's iPhone's calendar separated into weeks, days, months, and years. Has the ability to create events, reminders, and to-dos. The application was originally written in Objective-C. I was selected and hired through Upwork to rebuild the application with a new design. I am working under the guidance of a senior iOS developer with 15 years of experience who originally coded and ownes the app.
 
 Project information:
 - Tech: UiKit (10%) - SwiftUI (90%)
