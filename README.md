@@ -4,6 +4,19 @@ iOS Developer with 3 years of experience working in the field. Over the years Iâ
 
 # Projects
 
+## Cali 2 --- Ongoing project
+Cali is an easy-to-use calendar application for managing daily appointments. The application was originally written in Objective-C. I was hired to rebuild the application with a new design. I am working under the guidance of a senior iOS developer with 15 years of experience who originally coded and ownes the app.
+
+Project information:
+- Tech: UiKit (10%) - SwiftUI (90%)
+- Responsibilities: Setting up architecture, adding features, writing tests.
+- Team: 1 iOS Developer
+
+Original Cali 1
+App Store: https://apps.apple.com/us/app/cali-the-calendar-app/id970379188?platform=iphone
+
+![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/c35028ad-8207-4a5d-8a9a-895b666b092d)
+
 ## Eazigo
 EaziGo is a social media application for travelers. Gives users the ability to book trips for a group and create an itinerary for friends and family members to follow, the ability to create and share users' trips, and to invite different users for trips.
 
