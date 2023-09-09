@@ -16,7 +16,6 @@ App Store: https://apps.apple.com/us/app/cali-the-calendar-app/id970379188?platf
 
 ![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/12ddd21b-7591-4abe-ab92-13f2c8660133)
 
-
 ## Eazigo
 EaziGo is a social media application for travelers. Gives users the ability to book trips for a group and create an itinerary for friends and family members to follow, the ability to create and share users' trips, and to invite different users for trips.
 
@@ -28,7 +27,6 @@ Project information:
 App Store: https://apps.apple.com/ge/app/eazigo/id1668340210
 
 ![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/7f4748a9-2b46-4426-81fc-3403ce153bc2)
-
 
 ## Elli v3
 Application "Elli" is designed for independent owner-operators to manage and improve their delivery businesses. The application is used mainly by delivery operators. Guides users to delivery destinations, and gives the ability to scan packages for delivery and pickup information. Has 3D map views and map visualizations. Provides navigation voice guidance as well as alternative routes.
@@ -42,8 +40,6 @@ App Store: https://apps.apple.com/us/app/elli-v2/id1479069700?platform=iphone
 
 ![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/a4f00228-ed14-43a8-9df1-9979d3f73eb8)
 
-
- 
 ## MM My Profile (e-wallet)
 MyProfile application with 50k active users (operated mainly in Georgia) gives the ability to open and manage current, card, and other electronic money accounts. Instantly make utility and other payments, top up and withdraw money from gambling accounts, easily transfer money to a friend, etc. MyProfile app is a so-called multifunctional platform, a set of applications that are separate complete, and independent modules. Their function is to provide the user with various types of full-fledged services and get a lot of different services in one space.
 
@@ -55,8 +51,3 @@ Project information:
 App Store: https://apps.apple.com/ge/app/mm-myprofile/id1561990665
 
 ![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/60896598-22cf-4e41-92ec-265302756f1f)
-
-
-
-
-
