@@ -53,10 +53,6 @@ App Store: https://apps.apple.com/ge/app/mm-myprofile/id1561990665
 
 ![image](https://github.com/shotikoKlibadze/Portfolio/assets/85555736/60896598-22cf-4e41-92ec-265302756f1f)
 
-https://gita.gov.ge/en
-https://www.tbcitacademy.ge/
-http://www.geolab.edu.ge/
-http://www.tju.edu.cn/english/index.htm
-http://www.tju.edu.cn/english/index.htm
+
 
 
